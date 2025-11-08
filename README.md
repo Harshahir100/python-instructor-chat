@@ -40,17 +40,18 @@ pip install -r requirements.txt
 
 4️⃣ Set your API key
 Mac/Linux (bash/zsh):
-export GENAI_API_KEY="your_api_key_here"
+export GENAI_API_KEY="AIzaSyDYKalcFZNnTH4k3uShhwHi6aY3N5FHk1E"
 
 
 Windows (cmd):
-set GENAI_API_KEY="your_api_key_here"
+set GENAI_API_KEY="AIzaSyDYKalcFZNnTH4k3uShhwHi6aY3N5FHk1E"
 
 
 Windows (PowerShell):
-$env:GENAI_API_KEY="your_api_key_here"
+$env:GENAI_API_KEY="AIzaSyDYKalcFZNnTH4k3uShhwHi6aY3N5FHk1E"
 
 
 5️⃣ Run the Flask app
 python app.py
+
 
